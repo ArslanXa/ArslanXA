@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
 <h3 align="justified">Passionate and goal-oriented individual with a keen interest in Astronomy. Well-versed in Java, C, and SQL, and currently exploring java framework :Spring Boot, Spring Microservices and Hibernate. A strong believer in teamwork, with remarkable communication and interpersonal skills. Seeking valuable hands-on experience to apply and sharpen my knowledge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslaxa&label=Profile%20views&color=0e75b6&style=flat" alt="arslaxa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslaxa" alt="arslaxa" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials 🌐:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md. arslan akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. arslan akhtar" height="30" width="40" /></a>
 <a href="https://instagram.com/arslan_xa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslan_xa" height="30" width="40" /></a>

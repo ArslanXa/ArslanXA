@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
-<h3 align="center">Passionate and goal-oriented individual with a keen interest in Astronomy. Well-versed in Java, C, and SQL, and currently exploring java framework :Spring Boot, Spring Microservices and Hibernate. A strong believer in teamwork, with remarkable communication and interpersonal skills. Seeking valuable hands-on experience to apply and sharpen my knowledge.</h3>
+<h3 align="justified">Passionate and goal-oriented individual with a keen interest in Astronomy. Well-versed in Java, C, and SQL, and currently exploring java framework :Spring Boot, Spring Microservices and Hibernate. A strong believer in teamwork, with remarkable communication and interpersonal skills. Seeking valuable hands-on experience to apply and sharpen my knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslaxa&label=Profile%20views&color=0e75b6&style=flat" alt="arslaxa" /> </p>
 
